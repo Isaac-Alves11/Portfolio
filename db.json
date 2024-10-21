@@ -1,9 +1,542 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "content": [
+    {
+      "id": "4b3852c4",
+      "settings": {
+        "flex_direction": "column",
+        "min_height": {
+          "unit": "vh",
+          "size": 100,
+          "sizes": []
+        },
+        "min_height_tablet": {
+          "unit": "vh",
+          "size": "",
+          "sizes": []
+        },
+        "min_height_mobile": {
+          "unit": "vh",
+          "size": "",
+          "sizes": []
+        },
+        "flex_justify_content": "center",
+        "eael_cl_logics": [
+          {
+            "_id": "3c1ed13"
+          }
+        ],
+        "background_background": "classic",
+        "background_image": {
+          "url": "https://mentoriajulianemaria.com.br/wp-content/uploads/2024/10/Capa-1.png",
+          "id": 2257,
+          "size": "",
+          "alt": "",
+          "source": "library"
+        },
+        "background_position_mobile": "initial",
+        "background_xpos_mobile": {
+          "unit": "px",
+          "size": 565,
+          "sizes": []
+        },
+        "background_ypos_mobile": {
+          "unit": "px",
+          "size": -1,
+          "sizes": []
+        },
+        "background_size": "cover",
+        "background_size_mobile": "cover",
+        "padding": {
+          "unit": "px",
+          "top": "100",
+          "right": "0",
+          "bottom": "100",
+          "left": "0",
+          "isLinked": false
+        },
+        "padding_tablet": {
+          "unit": "px",
+          "top": "100",
+          "right": "50",
+          "bottom": "100",
+          "left": "50",
+          "isLinked": false
+        }
+      },
+      "elements": [
+        {
+          "id": "2cbcb1d8",
+          "settings": {
+            "content_width": "full",
+            "image": {
+              "url": "https://mentoriajulianemaria.com.br/wp-content/uploads/2024/10/Design-sem-nome-2024-10-21T161709.762-1.png",
+              "id": 2185,
+              "size": "",
+              "alt": "",
+              "source": "library"
+            },
+            "width": {
+              "unit": "%",
+              "size": 17,
+              "sizes": []
+            },
+            "width_tablet": {
+              "unit": "%",
+              "size": 24,
+              "sizes": []
+            },
+            "width_mobile": {
+              "unit": "%",
+              "size": 82,
+              "sizes": []
+            },
+            "eael_tooltip_section_content": "I am a tooltip",
+            "eael_ext_content_protection_password_placeholder": "Enter Password",
+            "eael_ext_content_protection_password_submit_btn_txt": "Submit",
+            "eael_ext_content_protection_password_incorrect_message": "Password does not match.",
+            "eael_cl_logics": [
+              {
+                "_id": "269b897"
+              }
+            ],
+            "ae_dynamic_rules": [
+              {
+                "_id": "ba7ab3e"
+              }
+            ],
+            "tooltip_content": "I am a tooltip"
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "image",
+          "elType": "widget"
+        },
+        {
+          "id": "1c4e8ab7",
+          "settings": {
+            "content_width": "full",
+            "title": "Olá, muito prazer! Seja muito bom vindo(a), quero te mostrar um pouco da minha experiência como <roxo>web designer. </roxo> <br><br>Com início na área de web designer em 2020, conhecido através das minhas aventuras no marketing digital, venho desenvolvendo minhas habilidades através de cursos e também como autodidata, e tive o prazer de participar de inúmeros projetos que me abriram diversas oportunidades nesse mercado. <br><br>Aqui em baixo destaquei alguns projetos, desde iniciantes aos mais avançados, que fico feliz em poder compartilhar e demonstrar minha evolução!",
+            "header_size": "h5",
+            "align": "center",
+            "title_color": "#FFFFFF",
+            "typography_typography": "custom",
+            "typography_font_family": "Montserrat",
+            "typography_font_weight": "700",
+            "typography_letter_spacing": {
+              "unit": "px",
+              "size": 1.2,
+              "sizes": []
+            },
+            "eael_tooltip_section_content": "I am a tooltip",
+            "eael_ext_content_protection_password_placeholder": "Enter Password",
+            "eael_ext_content_protection_password_submit_btn_txt": "Submit",
+            "eael_ext_content_protection_password_incorrect_message": "Password does not match.",
+            "eael_cl_logics": [
+              {
+                "_id": "8b86a62"
+              }
+            ],
+            "ae_dynamic_rules": [
+              {
+                "_id": "443eecd"
+              }
+            ],
+            "tooltip_content": "I am a tooltip"
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "heading",
+          "elType": "widget"
+        },
+        {
+          "id": "51370f42",
+          "settings": {
+            "content_width": "full",
+            "eael_fg_items_to_show": 6,
+            "eael_fg_filter_duration": 500,
+            "eael_fg_grid_item_height": "300",
+            "eael_fg_not_found_text": "Nenhum item encontrado",
+            "eael_fg_all_label_text": "Trabalhos",
+            "eael_fg_controls": [
+              {
+                "eael_fg_control": "Sites institucionais",
+                "_id": "5b746cf",
+                "eael_fg_control_custom_id": "",
+                "eael_fg_custom_label": "",
+                "eael_fg_control_active_as_default": ""
+              },
+              {
+                "eael_fg_control": "Páginas de venda",
+                "eael_fg_control_custom_id": "",
+                "eael_fg_custom_label": "",
+                "eael_fg_control_active_as_default": "",
+                "_id": "53e0da2"
+              }
+            ],
+            "eael_fg_gallery_items": [
+              {
+                "eael_fg_gallery_item_name": "Página de vendas para curso de Cookies",
+                "_id": "88ba9e9",
+                "eael_fg_gallery_item_video_link": "https://www.youtube.com/watch?v=kB4U67tiQLA",
+                "fg_item_price": "R$ 20,00",
+                "fg_item_ratings": "5",
+                "fg_item_cat": "Essential Addons",
+                "eael_fg_gallery_control_name": "Páginas de venda",
+                "eael_fg_gallery_item_content": "<p>Página desenvolvida para curso de desenvolvimento de sites, usada como base para ensinar aos alunos o processo de criação de uma página de vendas nota A.</p>",
+                "eael_fg_gallery_img": {
+                  "url": "https://mentoriajulianemaria.com.br/wp-content/uploads/2024/10/Opera-Instantaneo_2024-10-21_170908_mentoriajulianemaria.com_.br_.png",
+                  "id": 2254,
+                  "size": "",
+                  "alt": "",
+                  "source": "library"
+                }
+              },
+              {
+                "eael_fg_gallery_item_name": "Captção de investidores.",
+                "_id": "6d75d37",
+                "eael_fg_gallery_item_video_link": "https://www.youtube.com/watch?v=kB4U67tiQLA",
+                "fg_item_price": "R$ 20,00",
+                "fg_item_ratings": "5",
+                "fg_item_cat": "Essential Addons",
+                "eael_fg_gallery_control_name": "Sites institucionais",
+                "eael_fg_gallery_item_content": "<p>Grande projeto onde tive o prazer de desenvolver a página de vendas de uma empresa de Portugal para arrecadação de investidores em um lar de idosos.</p>",
+                "eael_fg_gallery_img": {
+                  "url": "https://mentoriajulianemaria.com.br/wp-content/uploads/2024/10/Opera-Instantaneo_2024-10-21_180042_mentoriajulianemaria.com_.br_.png",
+                  "id": 2262,
+                  "size": "",
+                  "alt": "",
+                  "source": "library"
+                }
+              },
+              {
+                "eael_fg_gallery_item_name": "Site institucionais lar de idosos",
+                "_id": "082d7dd",
+                "eael_fg_gallery_item_video_link": "https://www.youtube.com/watch?v=kB4U67tiQLA",
+                "fg_item_price": "R$ 20,00",
+                "fg_item_ratings": "5",
+                "fg_item_cat": "Essential Addons",
+                "eael_fg_gallery_control_name": "Sites institucionais",
+                "eael_fg_gallery_item_content": "<p>Ainda sobre o site desse lar de idosos de Portugal, também fiz parte do projeto do site onde é mostrado a estrutura da empresa.</p>",
+                "eael_fg_gallery_img": {
+                  "url": "https://mentoriajulianemaria.com.br/wp-content/uploads/2024/10/Opera-Instantaneo_2024-10-21_180141_portugal-site.vercel.app_.png",
+                  "id": 2263,
+                  "size": "",
+                  "alt": "",
+                  "source": "library"
+                }
+              },
+              {
+                "eael_fg_gallery_item_name": "página de vendas Designe de unhas",
+                "_id": "aa383b9",
+                "eael_fg_gallery_item_video_link": "https://www.youtube.com/watch?v=kB4U67tiQLA",
+                "fg_item_price": "R$ 20,00",
+                "fg_item_ratings": "5",
+                "fg_item_cat": "Essential Addons",
+                "eael_fg_gallery_control_name": "páginas de venda",
+                "eael_fg_gallery_item_content": "<p>Nesse projeto, pude trazer a tona a página de vendas que essa cliente queria onde ela pudesse anunciar seu curso de designe de unhas</p>",
+                "eael_fg_gallery_img": {
+                  "url": "https://mentoriajulianemaria.com.br/wp-content/uploads/2024/10/Opera-Instantaneo_2024-10-21_165157_mentoriajulianemaria.com_.br_.png",
+                  "id": 2253,
+                  "size": "",
+                  "alt": "",
+                  "source": "library"
+                }
+              },
+              {
+                "eael_fg_gallery_item_name": "Direito do Bariatricado",
+                "_id": "a4e36c0",
+                "eael_fg_gallery_item_video_link": "https://www.youtube.com/watch?v=kB4U67tiQLA",
+                "fg_item_price": "R$ 20,00",
+                "fg_item_ratings": "5",
+                "fg_item_cat": "Essential Addons",
+                "eael_fg_gallery_control_name": "Sites institucionais",
+                "eael_fg_gallery_item_content": "<p>Junto com uma empresa de renome no mundo jurídico, criamos esse site para pessoas que precisam de apoio ao pós bariátrico. Grande projeto de ajuda a quem não conhece seus direitos nessa área.</p>",
+                "eael_fg_gallery_img": {
+                  "url": "https://mentoriajulianemaria.com.br/wp-content/uploads/2024/10/Opera-Instantaneo_2024-10-21_171629_direitodosbariatricados.com_.png",
+                  "id": 2252,
+                  "size": "",
+                  "alt": "",
+                  "source": "library"
+                }
+              },
+              {
+                "eael_fg_gallery_item_name": "Curso de maquiagem",
+                "_id": "2d17544",
+                "eael_fg_gallery_item_video_link": "https://www.youtube.com/watch?v=kB4U67tiQLA",
+                "fg_item_price": "R$ 20,00",
+                "fg_item_ratings": "5",
+                "fg_item_cat": "Essential Addons",
+                "eael_fg_gallery_control_name": "Páginas de venda",
+                "eael_fg_gallery_item_content": "<p>Tive o prazer de desenvolver esse site para um curso de auto maquiagem. Trabalho lindo feito em conjunto com o cliente.</p>",
+                "eael_fg_gallery_img": {
+                  "url": "https://mentoriajulianemaria.com.br/wp-content/uploads/2024/10/Opera-Instantaneo_2024-10-21_171053_brygertonmakeupstudio.site_.png",
+                  "id": 2256,
+                  "size": "",
+                  "alt": "",
+                  "source": "library"
+                }
+              }
+            ],
+            "images_per_page": 6,
+            "load_more_text": "Carregar mais",
+            "nomore_items_text": "Não há mais itens!",
+            "eael_fg_video_item_icon_hover_scale": "1.1",
+            "fg_sf_placeholder": "Pesquisar item da galeria...",
+            "eael_tooltip_section_content": "I am a tooltip",
+            "eael_ext_content_protection_password_placeholder": "Enter Password",
+            "eael_ext_content_protection_password_submit_btn_txt": "Submit",
+            "eael_ext_content_protection_password_incorrect_message": "Password does not match.",
+            "eael_cl_logics": [
+              {
+                "_id": "0d80470"
+              }
+            ],
+            "ae_dynamic_rules": [
+              {
+                "_id": "b00df52"
+              }
+            ],
+            "tooltip_content": "I am a tooltip",
+            "eael_fg_grid_hover_transition": {
+              "unit": "px",
+              "size": 800,
+              "sizes": []
+            },
+            "eael_section_fg_full_image_clickable": "yes",
+            "eael_fg_bg_color": "#00000014",
+            "eael_fg_control_margin_mobile": {
+              "unit": "px",
+              "top": "10",
+              "right": "10",
+              "bottom": "10",
+              "left": "10",
+              "isLinked": true
+            },
+            "eael_fg_control_typography_typography": "custom",
+            "eael_fg_control_typography_font_family": "Poppins",
+            "eael_fg_control_typography_font_weight": "600",
+            "eael_fg_control_typography_letter_spacing": {
+              "unit": "px",
+              "size": 1.2,
+              "sizes": []
+            },
+            "eael_fg_control_normal_text_color": "#FFFFFF",
+            "eael_fg_control_normal_bg_color": "#443C68",
+            "eael_fg_control_normal_border_radius": {
+              "unit": "px",
+              "size": 100,
+              "sizes": []
+            },
+            "eael_fg_control_active_bg_color": "#443C68",
+            "eael_fg_control_active_border_radius": {
+              "unit": "px",
+              "size": 100,
+              "sizes": []
+            },
+            "eael_fg_item_container_margin": {
+              "unit": "px",
+              "top": "20",
+              "right": "20",
+              "bottom": "20",
+              "left": "20",
+              "isLinked": true
+            },
+            "eael_fg_item_container_margin_mobile": {
+              "unit": "px",
+              "top": "10",
+              "right": "10",
+              "bottom": "10",
+              "left": "10",
+              "isLinked": true
+            },
+            "eael_fg_item_border_border": "solid",
+            "eael_fg_item_border_width": {
+              "unit": "px",
+              "top": "3",
+              "right": "3",
+              "bottom": "3",
+              "left": "3",
+              "isLinked": true
+            },
+            "eael_fg_item_border_color": "#443C68",
+            "eael_fg_item_border_radius": {
+              "unit": "px",
+              "size": 20,
+              "sizes": []
+            },
+            "eael_fg_item_cap_bg_color": "#000000FC",
+            "eael_fg_item_cap_container_padding": {
+              "unit": "px",
+              "top": "10",
+              "right": "10",
+              "bottom": "10",
+              "left": "10",
+              "isLinked": true
+            },
+            "eael_fg_item_hover_title_color": "#FFFFFF",
+            "eael_fg_item_hover_title_hover_color": "#FFFFFF",
+            "eael_fg_item_hover_title_typography_typography": "custom",
+            "eael_fg_item_hover_title_typography_font_family": "Montserrat",
+            "eael_fg_item_hover_title_typography_font_weight": "500",
+            "eael_fg_item_hover_title_typography_letter_spacing": {
+              "unit": "px",
+              "size": 1.2,
+              "sizes": []
+            },
+            "eael_fg_item_icon_bg_color": "#FFFFFF",
+            "eael_fg_not_found_text_color": "#FFFFFF",
+            "_padding_mobile": {
+              "unit": "px",
+              "top": "50",
+              "right": "20",
+              "bottom": "50",
+              "left": "20",
+              "isLinked": false
+            }
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "eael-filterable-gallery",
+          "elType": "widget"
+        },
+        {
+          "id": "2ffc01c3",
+          "settings": {
+            "content_width": "full",
+            "title": "Vamos desenvolver também o seu projeto e tirar ele do pape?<br>Basta clicar no botão abaixo.<br>Ficarei mais do que feliz em te ajudar!",
+            "header_size": "h4",
+            "align": "center",
+            "title_color": "#FFFFFF",
+            "typography_typography": "custom",
+            "typography_font_family": "Montserrat",
+            "typography_font_weight": "500",
+            "typography_letter_spacing": {
+              "unit": "px",
+              "size": 1.2,
+              "sizes": []
+            },
+            "eael_tooltip_section_content": "I am a tooltip",
+            "eael_ext_content_protection_password_placeholder": "Enter Password",
+            "eael_ext_content_protection_password_submit_btn_txt": "Submit",
+            "eael_ext_content_protection_password_incorrect_message": "Password does not match.",
+            "eael_cl_logics": [
+              {
+                "_id": "7973041"
+              }
+            ],
+            "ae_dynamic_rules": [
+              {
+                "_id": "78b0af4"
+              }
+            ],
+            "tooltip_content": "I am a tooltip"
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "heading",
+          "elType": "widget"
+        },
+        {
+          "id": "745e8861",
+          "settings": {
+            "content_width": "full",
+            "text": "Chega junto!",
+            "selected_icon": {
+              "value": "fab fa-whatsapp",
+              "library": "fa-brands"
+            },
+            "align": "center",
+            "typography_typography": "custom",
+            "typography_font_family": "Poppins",
+            "typography_font_size": {
+              "unit": "px",
+              "size": 22,
+              "sizes": []
+            },
+            "typography_font_weight": "600",
+            "typography_letter_spacing": {
+              "unit": "px",
+              "size": 1.2,
+              "sizes": []
+            },
+            "background_color": "#443C68",
+            "hover_color": "#443C68",
+            "button_background_hover_color": "#FFFFFF",
+            "button_hover_border_color": "#443C68",
+            "hover_animation": "grow",
+            "border_border": "solid",
+            "border_width": {
+              "unit": "px",
+              "top": "1",
+              "right": "1",
+              "bottom": "1",
+              "left": "1",
+              "isLinked": true
+            },
+            "border_radius": {
+              "unit": "px",
+              "top": "15",
+              "right": "15",
+              "bottom": "15",
+              "left": "15",
+              "isLinked": true
+            },
+            "eael_tooltip_section_content": "I am a tooltip",
+            "eael_ext_content_protection_password_placeholder": "Enter Password",
+            "eael_ext_content_protection_password_submit_btn_txt": "Submit",
+            "eael_ext_content_protection_password_incorrect_message": "Password does not match.",
+            "eael_cl_logics": [
+              {
+                "_id": "8f44dca"
+              }
+            ],
+            "ae_dynamic_rules": [
+              {
+                "_id": "f713414"
+              }
+            ],
+            "tooltip_content": "I am a tooltip"
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "button",
+          "elType": "widget"
+        },
+        {
+          "id": "10929b4",
+          "settings": {
+            "content_width": "full",
+            "eael_tooltip_section_content": "I am a tooltip",
+            "eael_ext_content_protection_password_placeholder": "Enter Password",
+            "eael_ext_content_protection_password_submit_btn_txt": "Submit",
+            "eael_ext_content_protection_password_incorrect_message": "Password does not match.",
+            "eael_cl_logics": [
+              {
+                "_id": "d273eed"
+              }
+            ],
+            "ae_dynamic_rules": [
+              {
+                "_id": "bae24b9"
+              }
+            ],
+            "custom_css": "selector {\r\n    white-space: nowrap;\r\n} \r\nazul{\r\n    color: #5687C0;\r\n}\r\nred{\r\n   color: #DB0A0A; \r\n}\r\nroxo{\r\n    color: #443C68;\r\n}",
+            "tooltip_content": "I am a tooltip"
+          },
+          "elements": [],
+          "isInner": false,
+          "widgetType": "html",
+          "elType": "widget"
+        }
+      ],
+      "isInner": false,
+      "elType": "container"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "page_settings": {
+    "eael_ext_toc_title": "Table of Contents (índice)"
+  },
+  "version": "0.4",
+  "title": "Portfolio Isaac Alves",
+  "type": "page"
 }
